@@ -97,26 +97,6 @@ Caminhos encontrados:
   5 → 3, 7
   6 → 7
   ```
-
----
-
-## 🛠️ Como Executar
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/algoritmos-grafos.git
-   cd algoritmos-grafos
-   ```
-
-2. **Execute os algoritmos**:
-   - **Dijkstra**:
-     ```python
-     python dijkstra.py
-     ```
-   - **MPA**:
-     ```python
-     python mpa.py
-     ```
-
 ---
 
 ## 📝 Considerações Técnicas
