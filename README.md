@@ -1,4 +1,4 @@
-# iniciacao_cientifica
+# iniciacao_cientifica.exec
 
 ### Esse repositório é destinado as contruções feitas no processo de pesquisa da minha Iniciação Cientifica
 
@@ -127,16 +127,3 @@ Caminhos encontrados:
 | **Pesos**                | Não negativos                         | Não aplicável                        |
 | **Saída**                | Caminho único de menor custo          | Todos os caminhos possíveis          |
 | **Casos de Uso**         | Rotas ótimas, redes logísticas        | Análise de redes, testes de caminhos |
-
----
-
-## 📄 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para detalhes.
-``` 
-
---- 
-
-### **Notas Adicionais**:
-- Substitua `seu-usuario` no link de clone pelo seu nome de usuário do GitHub.
-- Adicione os arquivos `dijkstra.py` e `mpa.py` ao repositório com os códigos correspondentes.
-- Inclua um arquivo `LICENSE` se necessário.
